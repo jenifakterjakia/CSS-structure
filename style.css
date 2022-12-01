@@ -1,0 +1,292 @@
+body {
+    margin: 0;
+}
+
+p {
+    text-align: center;
+    margin: auto;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+.heading {
+    height: 150px;
+    width: 100%;
+    border: black inset 2px;
+}
+
+
+/* HEADING ONE */
+.heading1 {
+    width: 40%;
+    height: 100%;
+    float: left;
+}
+
+.firstHeading1 {
+    background: #f3a683;
+    height: 50%;
+}
+
+.secondHeading1 {
+    background: #f7d794;
+    height: 50%;
+}
+
+/* HEADING TWO */
+.heading2 {
+    width: 35%;
+    height: 100%;
+    overflow: hidden;
+    float: left;
+}
+
+.firstHeading2 {
+    background: #778beb;
+    height: 100%;
+    width: 30%;
+    float: left;
+}
+
+.secondHeading2 {
+    background: #e77f67;
+    height: 100%;
+    width: 20%;
+    overflow: hidden;
+    float: left;
+}
+
+.thirdHeading2 {
+    background: #cf6a87;
+    height: 100%;
+    width: 20%;
+    overflow: hidden;
+    float: left;
+}
+
+.fourthHeading2 {
+    background: #c44569;
+    height: 100%;
+    width: 30%;
+    overflow: hidden;
+}
+
+
+/* HEADING THREE */
+.heading3 {
+    width: 25%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.firstHeading3 {
+    background: #f19066;
+    height: 50%;
+    width: 100%;
+}
+
+.secondHeading3 {
+    background: #f5cd79;
+    height: 50%;
+    width: 100%;
+}
+
+
+
+/* FIRST SECTION */
+.firstSection {
+    height: 300px;
+    width: 100%;
+    border: black inset 2px;
+}
+
+.firstSection1 {
+    background: #e15f41;
+    height: 100%;
+    width: 20%;
+    float: left;
+}
+
+.firstSection2 {
+    background: #546de5;
+    height: 100%;
+    width: 20%;
+    overflow: hidden;
+    float: left;
+}
+
+.firstSection3 {
+    background: #f5cd79;
+    height: 100%;
+    width: 20%;
+    overflow: hidden;
+    float: left;
+}
+
+.firstSection4 {
+    background: #f19066;
+    height: 100%;
+    width: 40%;
+    overflow: hidden;
+}
+
+/* SECOND SECTION */
+.secondSection {
+    border: black inset 2px;
+    height: 350px;
+    width: 100%;
+    float: left;
+}
+
+.secondSection1 {
+    width: 100%;
+    height: 50%;
+    float: left;
+}
+
+/* SECOND SECTION BOX */
+.secondSectionBox1 {
+    background: #596275;
+    height: 100%;
+    width: 40%;
+    overflow: hidden;
+    float: left;
+}
+
+.secondSectionBox2 {
+    background: #ea8685;
+    height: 100%;
+    width: 15%;
+    overflow: hidden;
+    float: left;
+}
+
+.secondSectionBox3 {
+    background: #63cdda;
+    height: 100%;
+    width: 15%;
+    overflow: hidden;
+    float: left;
+}
+
+.secondSectionBox4 {
+    background: #c44569;
+    height: 100%;
+    width: 15%;
+    overflow: hidden;
+    float: left;
+}
+
+.secondSectionBox5 {
+    background: #f3a683;
+    height: 100%;
+    width: 15%;
+    overflow: hidden;
+}
+
+.secondSection2 {
+    width: 100%;
+    height: 50%;
+    float: left;
+}
+
+.secondSectionPack1 {
+    background: #303952;
+    height: 100%;
+    width: 15%;
+    overflow: hidden;
+    float: left;
+}
+
+.secondSectionPack2 {
+    background: #f19066;
+    height: 100%;
+    width: 25%;
+    overflow: hidden;
+    float: left;
+}
+
+.secondSectionPack3 {
+    background: #303952;
+    height: 100%;
+    width: 20%;
+    overflow: hidden;
+    float: left;
+}
+
+.secondSectionPack4 {
+    background: #3dc1d3;
+    height: 100%;
+    width: 40%;
+    overflow: hidden;
+}
+
+.thirdSection {
+    height: 350px;
+    width: 100%;
+    overflow: hidden;
+    border: black inset 2px;
+}
+
+.thirdSection1 {
+    background: #2ecc71;
+    height: 100%;
+    width: 20%;
+    float: left;
+}
+
+.thirdSection2 {
+    background: #3498db;
+    height: 100%;
+    width: 25%;
+    overflow: hidden;
+    float: left;
+}
+
+.thirdSection3 {
+    height: 100%;
+    width: 25%;
+    overflow: hidden;
+    float: left;
+}
+
+.carton1 {
+    background: #f1c40f;
+    width: 100%;
+    height: 30%;
+    float: left;
+}
+
+.carton2 {
+    background: #ecf0f1;
+    width: 100%;
+    height: 70%;
+    overflow: hidden;
+}
+
+.thirdSection4 {
+    height: 100%;
+    width: 30%;
+    overflow: hidden;
+}
+
+.container1 {
+    background: #7f8c8d;
+    height: 60%;
+    width: 100%;
+    float: left;
+}
+
+.container2 {
+    background: #bdc3c7;
+    height: 40%;
+    width: 100%;
+    overflow: hidden;
+}
+
+.footer {
+    background: #ff7675;
+    height: 100px;
+    width: 100%;
+    border: black inset 2px;
+}
